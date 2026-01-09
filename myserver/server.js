@@ -8,7 +8,7 @@ const app = express();
 const PORT = process.env.PORT || 5000;
 
 
-const uri = "mongodb+srv://kjarakolonja24:kjara@cluster0.oxnlkcm.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0";
+const uri = "secret";
 const client = new MongoClient(uri, {
   useNewUrlParser: true,
   useUnifiedTopology: true,
