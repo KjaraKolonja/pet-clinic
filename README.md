@@ -33,14 +33,11 @@ pet-clinic/
 ├── package.json
 └── README.md
 
-This project was created to practice and showcase:
+## This project was created to practice and showcase:
 
-Full-stack web development
-
-REST API design
-
-Frontend–backend integration
+- Full-stack web development
+- REST API design
+- Frontend–backend integration
 
 
-## 📂 Project Structure
 
